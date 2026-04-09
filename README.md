@@ -68,7 +68,7 @@ A flexible product configuration system allowing dynamic product composition wit
 Worked with businesses across multiple domains, including:
 - E-commerce platforms  
 - E-learning systems  
-- Drone retail & training services  
+- Retail & training services  
 - Remote examination systems  
 - Food & service businesses  
 
