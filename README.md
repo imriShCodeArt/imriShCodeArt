@@ -78,4 +78,5 @@ Currently working in a website maintenance environment, handling production syst
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/imrish/)
+- LinkedIn: https://www.linkedin.com/in/imrish/  
+- Email: info@imriwain.com
